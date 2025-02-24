@@ -28,7 +28,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
     <div align= "center"> 
         <div>
-          <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=sonjarvis&show_icons=true&theme=holi" width = "49%" height="130%" />
+          <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=holi" width = "49%" height="130%" />
           <img alt="algorithms" src="http://mazassumnida.wtf/api/generate_badge?boj=xhens" width="42%" height="100%"/>
         </div>
     </div>
