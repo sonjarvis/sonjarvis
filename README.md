@@ -1,5 +1,5 @@
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-Junyyy&show_icons=true&theme=cobalt)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=백준아이디)](https://solved.ac/xhens)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=xhens)](https://solved.ac/xhens)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjarvis&layout=compact&theme=cobalt)
 
 <!---
